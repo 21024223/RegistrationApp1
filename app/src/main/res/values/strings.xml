@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Registration App</string>
+    <string name="nameForm">Registration Form</string>
+    <string name="appDescription">Welcome to Adventure Learning Club!</string>
+    <string name="Gender1">Male</string>
+    <string name="Gender2">Female</string>
+</resources>
